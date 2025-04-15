@@ -16,8 +16,8 @@ SentimentScope is a Python-based tool for detecting the sentiment (positive, neg
   conda activate thesis
 ### Project Dependencies
 - **Python Libraries**:
-- **  # transformers (Hugging Face for RoBERTa models)
-- **  torch (PyTorch for model inference)
-- **  pandas (Dataset handling)
-- **  python-dotenv (Environment variables)
-- **  Full list in requirements.txt
+- **transformers (Hugging Face for RoBERTa models)**
+- **torch (PyTorch for model inference)**
+- **pandas (Dataset handling)**
+- **python-dotenv (Environment variables)**
+- **Full list in requirements.txt**
