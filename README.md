@@ -23,4 +23,4 @@ SentimentScope is a Python-based tool for detecting the sentiment (positive, neg
 - **Full list in requirements.txt**
 
 ### DATASET:
-- **DATA*: https://drive.google.com/file/d/11F0meGrucbIiS9aXeJTdsc8H5zqSC9Le/view?usp=sharing
+- **DATA**: https://drive.google.com/file/d/11F0meGrucbIiS9aXeJTdsc8H5zqSC9Le/view?usp=sharing
