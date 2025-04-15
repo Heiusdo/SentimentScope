@@ -14,3 +14,5 @@ SentimentScope is a Python-based tool for detecting the sentiment (positive, neg
   # Windows: Use Anaconda (recommended)
   conda create -n thesis python=3.11
   conda activate thesis
+#### Project Dependencies
+- **Python Libraries**:
